@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace _1 {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Hello, world");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Hello, world?");
         }
     }
 }
