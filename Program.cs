@@ -9,6 +9,7 @@ namespace _1 {
         static void Main(string[] args) {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Hello, world?");
+            Console.Beep();
         }
     }
 }
